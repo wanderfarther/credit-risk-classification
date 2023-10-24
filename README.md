@@ -9,34 +9,32 @@ The prupose of this analysis was to create a model that could accurately and con
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 * Logitistic Regression Model 1:
- * Accuracy: 95.2%
-	This model had a high accuracy rate.
- * Precision: 
-	* Healthy: 1.00
-	This model predicted if a loan was healhty 100% of the time compared to the predicted healhty loans.
-	* High Risk: 0.85
-	This model predicted if a loan was at risk 85% of the time compared to the predicted high risk loans.
- * Recall: 
-	* Healthy: 1.00
-	This model accurately predicted if a loan was healhty 100% of the time compared to the actual number of healhty loans.
-	* High Risk: 0.91
-	This model accurately predicted if a loan was healhty 91% of the time compared to the actual number of high risk loans.
+	* Accuracy: 95.2%
+		This model had a high accuracy rate.
+	* Precision: 
+		* Healthy: 1.00
+		This model predicted if a loan was healhty 100% of the time compared to the predicted healhty loans.
+		* High Risk: 0.85
+		This model predicted if a loan was at risk 85% of the time compared to the predicted high risk loans.
+	* Recall: 
+		* Healthy: 1.00
+		This model accurately predicted if a loan was healhty 100% of the time compared to the actual number of healhty loans.
+		* High Risk: 0.91
+		This model accurately predicted if a loan was healhty 91% of the time compared to the actual number of high risk loans.
 
-
-* Machine Learning Model 2:
 * Logitistic Regression Model 2:
- * Accuracy: 99.3%
-	This model had a higher accuracy rate than the first model.
- * Precision: 
-	* Healthy: 1.00
-	This model predicted if a loan was healhty 100% of the time compared to the predicted healhty loans.
-	* High Risk: 0.84
-	This model predicted if a loan was at risk 84% of the time compared to the predicted high risk loans.
- * Recall: 
-	* Healthy: 1.00
-	This model accurately predicted if a loan was healhty 100% of the time compared to the actual number of healhty loans.
-	* High Risk: 0.99
-	This model accurately predicted if a loan was healhty 99% of the time compared to the actual number of high risk loans.
+	* Accuracy: 99.3%
+		This model had a higher accuracy rate than the first model.
+	* Precision: 
+		* Healthy: 1.00
+		This model predicted if a loan was healhty 100% of the time compared to the predicted healhty loans.
+		* High Risk: 0.84
+		This model predicted if a loan was at risk 84% of the time compared to the predicted high risk loans.
+	* Recall:
+		* Healthy: 1.00
+		This model accurately predicted if a loan was healhty 100% of the time compared to the actual number of healhty loans.
+		* High Risk: 0.99
+		This model accurately predicted if a loan was healhty 99% of the time compared to the actual number of high risk loans.
 
 ## Summary
 
