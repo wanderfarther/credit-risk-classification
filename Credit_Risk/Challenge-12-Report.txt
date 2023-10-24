@@ -21,8 +21,6 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 	* High Risk: 0.91
 	This model accurately predicted if a loan was healhty 91% of the time compared to the actual number of high risk loans.
 
-
-* Machine Learning Model 2:
 * Logitistic Regression Model 2:
  * Accuracy: 99.3%
 	This model had a higher accuracy rate than the first model.
